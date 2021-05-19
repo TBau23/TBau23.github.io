@@ -14,11 +14,13 @@ An ongoing catalog of things that interest me. At some point I'd like to write l
 - This long [essay](http://augmentingcognition.com/ltm.html) on improving memory by Michael Nielsen. I'm convinced that incorporating spaced repition into one's life is of potentially enormous value. We tend to think of memorizing things as dull, but the knowledge we carry around in our heads has a huge influence on the thoughts we're able to think. I'm trying to make spaced repetition a core habit.
     - Michael and Andy Matuschak are doing a lot of really interesting work around this idea. Here are some other [relevant](https://andymatuschak.org/books/) [links](https://numinous.productions/ttft/).
 
-    - Related is the idea of feedback loops in learning. 
+    <!-- - Related is the idea of feedback loops in learning.  -->
 
-- Economic and scientific history. This is an enormous category, 
+- Progress studies. Understanding how we got where we are and how we can do more of that in the future seems extremely important. How can you look at this [chart](https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia) and not be full of questions?
+    - [Roots of Progress](https://rootsofprogress.org/) by Jason Crawford is a good blog on the topic. Many of the books on my reading list revolve around this as well. 
 
-
+- Economic history (closely tied to the above). All of my favorite college courses were on this topic. 
+    - The history of financial markets in particular never fails to amaze me. No other type of history shows so consistently how little humans have changed over the last [thousand](https://twitter.com/jposhaughnessy/status/1079801917755346944) years.
 
 - Sports.
 
