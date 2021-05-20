@@ -22,7 +22,7 @@ An ongoing catalog of things that interest me. At some point I'd like to write l
 - Economic history (closely tied to the above). All of my favorite college courses were on this topic. 
     - The history of financial markets in particular never fails to amaze me. No other type of history shows so consistently how little humans have changed over the last [thousand](https://twitter.com/jposhaughnessy/status/1079801917755346944) years.
 
-- Sports.
+- Sports. In particular, I love soccer (Manchester United) and MMA. I'm aware that is a weird combo. I've always loved soccer and I just think MMA is the most difficult sport there is by far. I'm amazed by all of the people who do it. 
 
 
 
