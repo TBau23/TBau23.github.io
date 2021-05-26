@@ -9,7 +9,7 @@ I'm setting up this personal website to try and take better advantage of the mag
 
 ## Interests and Influences
 
-An ongoing catalog of things that interest me. At some point I'd like to write longer form posts about a lot of these. 
+An ongoing catalog of things that interest me. At some point I'd like to write longer form posts about a lot of these. This site is still very much in progress, so I'm sure I'll expand on these with time. 
 
 - This long [essay](http://augmentingcognition.com/ltm.html) on improving memory by Michael Nielsen. I'm convinced that incorporating spaced repition into one's life is of potentially enormous value. We tend to think of memorizing things as dull, but the knowledge we carry around in our heads has a huge influence on the thoughts we're able to think. I'm trying to make spaced repetition a core habit.
     - Michael and Andy Matuschak are doing a lot of really interesting work around this idea. Here are some other [relevant](https://andymatuschak.org/books/) [links](https://numinous.productions/ttft/).
