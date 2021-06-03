@@ -19,8 +19,10 @@ An ongoing catalog of things that interest me. At some point I'd like to write l
 - Progress studies. Understanding how we got where we are and how we can do more of that in the future seems extremely important. How can you look at this [chart](https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia) and not be full of questions?
     - [Roots of Progress](https://rootsofprogress.org/) by Jason Crawford is a good blog on the topic. Many of the books on my reading list revolve around this as well. 
 
+    - The blog of [Eli Dourado](https://medium.com/cgo-benchmark/deepminds-protein-folding-solution-what-just-happened-279d32e8d0f). Eli has an incredible range of interests and seems to know a lot about all of them. I recently enjoyed his piece breaking down the triumph of [AlphaFold 2](https://medium.com/cgo-benchmark/deepminds-protein-folding-solution-what-just-happened-279d32e8d0f). Absolutely amazing to me that this hasn't been more widely covered. As far as I can tell, this is the biggest win for machine learning to date - taking a decades old scientific roadblock and just solving it entirely. 
+
 - Economic history (closely tied to the above). All of my favorite college courses were on this topic. 
-    - The history of financial markets in particular never fails to amaze me. No other type of history shows so consistently how little humans have changed over the last [thousand](https://twitter.com/jposhaughnessy/status/1079801917755346944) years.
+    - The history of financial markets in particular never fails to amaze me. No other type of history shows so consistently how little humans have changed over the last [thousand years](https://twitter.com/jposhaughnessy/status/1079801917755346944).
 
 - Sports. In particular, I love soccer (Manchester United) and MMA. I'm aware that is a weird combo. I've always loved soccer and I just think MMA is the most difficult sport there is by far. I'm amazed by all of the people who do it. 
 
