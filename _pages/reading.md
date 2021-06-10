@@ -23,8 +23,9 @@ I've definitely been influenced by Naval Ravikant's ideas on reading - I no long
 
 [The Making of Prince of Persia](https://www.amazon.com/Making-Prince-Persia-Journals-1985-1993-Illustrated/dp/0578627310/ref=sr_1_3?dchild=1&keywords=making+of+prince+of+persia&qid=1622752890&sr=8-3) by Jordan Mechner. Jordan's annotated personal journals throughout the time he was making one of the all time great video games. Awesome inside look at the process of someone doing really difficult creative work. Read it in a day. 
 
-[The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World-ebook/dp/B005DXR5ZC/ref=sr_1_1?crid=21LD89Q5XARLZ&dchild=1&keywords=beginning+of+infinity+by+david+deutsch&qid=1622753104&sprefix=beginning+of+infinity%2Caps%2C199&sr=8-1) by David Deutsch. Deutsch's argument for why there are no limits to human knowledge. 
+[The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World-ebook/dp/B005DXR5ZC/ref=sr_1_1?crid=21LD89Q5XARLZ&dchild=1&keywords=beginning+of+infinity+by+david+deutsch&qid=1622753104&sprefix=beginning+of+infinity%2Caps%2C199&sr=8-1) by David Deutsch. Deutsch's argument for why there are no limits to human knowledge. An extremely broad book that had me stopping to look things up constantly.
 
+[A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681) by Jimmy Soni and Rob Goodman. Highly enjoyable read about Claude Shannon and his life's work. The combination of his towering accomplishments and his lighthearted nature make for great inspiration. 
 
 
 
