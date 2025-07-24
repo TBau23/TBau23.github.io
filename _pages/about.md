@@ -3,9 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Welcome! My name is Tom. I'm 23 years old and currently focused on learning as much as I can about building software. I studied finance and history in college, but after some internships and a lot of reading I realized I had no desire to follow the traditional finance career path. Instead, I enrolled in [Lambda School](https://lambdaschool.com/) just after graduation and recently completed their 9 month track in full stack development. 
 
-I'm setting up this personal website to try and take better advantage of the magical tool that is the internet. My natural inclination is to not share much about myself, but I've been inspired by posts like [The Great Online Game](https://www.notboring.co/p/the-great-online-game) and Sam Hinkie's philosophy of leaving [breadcrumbs](https://www.stitcher.com/show/invest-like-the-best/episode/sam-hinkie-find-your-people-invest-like-the-best-ep-204-80161177). Writing (both code and words) is also a great way to expose sloppy thinking, so I'm hoping that creating this site will serve as a sort of forcing function for making me better at those skills. 
+Despite the Fear of Being Known I'm setting up a personal website. I've been inspired by posts like [The Great Online Game](https://www.notboring.co/p/the-great-online-game) and Sam Hinkie's philosophy of leaving [breadcrumbs](https://www.stitcher.com/show/invest-like-the-best/episode/sam-hinkie-find-your-people-invest-like-the-best-ep-204-80161177). Writing (both code and words) is also a great way to expose sloppy thinking, so I'm hoping that creating this site will serve as a sort of forcing function for making me better at those skills. 
 
 ## Interests and Influences
 
@@ -22,7 +21,7 @@ An ongoing catalog of things that interest me. At some point I'd like to write l
 - Economic history (closely tied to the above). All of my favorite college courses were on this topic. 
     - The history of financial markets in particular never fails to amaze me. No other type of history shows so consistently how little humans have changed over the last [thousand](https://twitter.com/jposhaughnessy/status/1079801917755346944) years.
 
-- Sports. In particular, I love soccer (Manchester United) and MMA. I'm aware that is a weird combo. I've always loved soccer and I just think MMA is the most difficult sport there is by far. I'm amazed by all of the people who do it. 
+- 
 
 
 
