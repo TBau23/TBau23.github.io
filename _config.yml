@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TB
+url: "https://tbau23.github.io"
 email: tom.a.bauer@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Tom Bauer. Coder, writer, reader.
@@ -60,26 +61,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TBau23"
     - label: "tom.a.bauer@protonmail.com"
       icon: "fa fa-fw fa-envelope-square"
       url: ""
-    
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/TBau23"
-
 
 defaults:
   # _posts
@@ -89,10 +76,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"

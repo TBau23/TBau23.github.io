@@ -21,7 +21,6 @@ An ongoing catalog of things that interest me. At some point I'd like to write l
 - Economic history (closely tied to the above). All of my favorite college courses were on this topic. 
     - The history of financial markets in particular never fails to amaze me. No other type of history shows so consistently how little humans have changed over the last [thousand](https://twitter.com/jposhaughnessy/status/1079801917755346944) years.
 
-- 
 
 
 
